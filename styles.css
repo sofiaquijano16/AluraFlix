@@ -18,7 +18,9 @@ section {
     display: flex;
     justify-content: center;
 }
-    
+  div {
+      margin-right: 20px;
+}
 
 
 
